@@ -20,5 +20,5 @@ git clone https://github.com/DSC-JKUAT/BlogPost.git
 
 ### You may need a rest api testing tool like postman or insomnia
 
-    - [Postman](https://www.getpostman.com/downloads/)
-    - [Insomnia](https://insomnia.rest/download/)
+    - [Postman] (https://www.getpostman.com/downloads/)
+    - [Insomnia] (https://insomnia.rest/download/)
