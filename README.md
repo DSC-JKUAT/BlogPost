@@ -8,13 +8,13 @@
 git clone https://github.com/DSC-JKUAT/BlogPost.git
 
 # Activating virtual environment
-    *source .env*
+    **source .env**
 
 # Installing Dependencies
-    *pip install -r requirements.txt*
+    **pip install -r requirements.txt**
 
 # Running the app
-    *flask run*
+    **flask run**
 
 ```
 
